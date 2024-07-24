@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# Getting Started with Basic E-Commerce-App
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+first Clone / Download The Project
+cd into the project directory then you can run:
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.

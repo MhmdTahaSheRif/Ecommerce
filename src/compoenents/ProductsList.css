@@ -1,0 +1,35 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .p-3 {
+    padding: 1rem;
+  }
+  
+  .border-2 {
+    border: 2px solid black; 
+  }
+  .search-container {
+    width: 800px;
+margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+    margin-top: 20px; 
+  }
+  
+  .search-input {
+    margin: auto;
+width: 80%; 
+border-radius: 2px;
+padding: 10px;
+height: 40px;
+ }
+  
+  .search-select {
+    text-align: center;
+    width: 20%;
+    height: 40px;
+  }
+  
